@@ -2,11 +2,10 @@
 <index>
   <info>
     <update version="1.0">
-      <file name="kyojo.index" url="http://hosting.com/files/sample.index" />
+      <file name="kyojo.index" url="https://raw.githubusercontent.com/KyojoH/aurora-content/master/kyojo.index" />
     </update>
   </info>
   <files>
-    <file name="source.xml" url="http://hosting.com/files/source.xml" />
-    <file name="items.xml" url="http://hosting.com/files/items.xml" />
+    <file name="spirit.xml" url="https://raw.githubusercontent.com/KyojoH/aurora-content/master/spirit.xml" />
   </files>
 </index>
