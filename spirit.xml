@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <elements>
+	<info>
+		<name>Spirit</name>
+		<description>Spirit</description>
+		<author url="http://github.com/KyojoH">KyojoH</author>
+		<update version="0.0.1">
+			<file name="spirit.xml" url="https://raw.githubusercontent.com/aurora-content/elements/master/spirit.xml" />
+		</update>
+	</info>
 	<element name="Spirit" type="Race" source="DnD Wiki" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT">
 		<description>
 			<p class="flavor">
@@ -145,12 +154,73 @@
 		</setters>
 		<rules>
 			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Racial Trait" id="" />
 			<stat name="innate speed" value="30" bonus="base" />
 			<grant type="Language" id="ID_LANGUAGE_COMMON" />
 			<select type="Racial Trait" name="Ability Score Increase (2) (Spirit)" supports="Spirit" number="1" />
 			<select type="Racial Trait" name="Ability Score Increase (1) (Spirit) " supports="Spirit1" number="1" />
 			<select type="Language" name="Language (Spirit)" number="1" supports="Standard||Exotic" />
 		</rules>
+	</element>
+	
+	
+	<span class="feature">
+		Spirit's Rest.
+	</span>
+	
+	<br />
+	<element name="Immaterial Body" type="Racial Trait" source="DnD Wiki" id="ID_KYOJO_DNDWIKI_SPIRIT_IMMATERIAL_BODY">
+		<description>
+			<p>Your creature type is Construct. You do not require air, food, drink, or sleep. Your body prevents you from using any kind of armor, with your AC being 10 + your Constitution modifier + your Dexterity modifier.</p>
+			
+		</description><rules>
+			<stat name="ac:unarmored defense spirit:base" value="10" />
+			<stat name="ac:unarmored defense spirit:dexterity" value="dexterity:modifier" />
+			<stat name="ac:unarmored defense spirit:constitution" value="constitution:modifier" />
+
+			<stat name="ac:unarmored defense spirit" value="ac:unarmored defense spirit:base" />
+			<stat name="ac:unarmored defense spirit" value="ac:unarmored defense spirit:dexterity" />
+			<stat name="ac:unarmored defense spirit" value="ac:unarmored defense spirit:constitution" />
+
+			<stat name="ac:calculation" value="ac:unarmored defense spirit" bonus="calculation" equipped="[armor:none]" alt="Immaterial Body" />
+		</rules>
+	</element>
+	<element name="Mind Link" type="Racial Trait" source="DnD Wiki" id="ID_KYOJO_DNDWIKI_SPIRIT_MINDLINK">
+		<description>
+			<p>You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language. When you're using this trait to speak telepathically to a creature, you can use your action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait's range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it.</p>
+		</description>
+		<sheet>
+			<description>You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language. When you're using this trait to speak telepathically to a creature, you can use your action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait's range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it.</description>
+		</sheet>
+	</element>
+	<element name="Spirit Magic" type="Racial Trait" source="DnD Wiki" id="ID_KYOJO_SPIRIT_RACIAL_TRAIT_SPIRIT_MAGIC">
+		<description>
+			<p>You can cast detect magic once, regaining the ability to do so after finishing a short or long rest. You choose Intelligence, Wisdom, or Charisma for your spellcasting ability.</p>
+		</description>
+		<sheet>
+			<description>You can cast detect magic once, regaining the ability to do so after finishing a short or long rest. You choose Intelligence, Wisdom, or Charisma for your spellcasting ability.
+			</description>
+			
+		</sheet>
+		<rules>
+			<grant type="Spell" id="ID_PHB_SPELL_DETECT_MAGIC" level="1"/>
+		</rules>
+	</element>
+	<element name="Change Form" type="Racial Trait" source="DnD Wiki" id="ID_KYOJO_SPIRIT_RACIAL_TRAIT_CHANGE_FORM">
+		<description>
+			<p>As an action, you can change the composition of your body. You determine the specifics of the changes, including your coloration. You can also adjust your height and weight, even to the point of affecting your size. You can make yourself appear invisible depending on the chemical element chosen. You can mimic the appearance of a creature you've seen, but only their approximate shape and coloration. You stay in the new form until you use an action to revert to your true form or until you die.</p>
+		</description>
+		<sheet>
+			<description>As an action, you can change the composition of your body. You determine the specifics of the changes, including your coloration. You can also adjust your height and weight, even to the point of affecting your size. You can make yourself appear invisible depending on the chemical element chosen. You can mimic the appearance of a creature you've seen, but only their approximate shape and coloration. You stay in the new form until you use an action to revert to your true form or until you die.</description>
+		</sheet>
+	</element>
+	<element name="Spirit's Rest" type="Racial Trait" source="DnD Wiki" id="ID_KYOJO_DNDWIKI_RACIAL_TRAIT_Spirit's Rest">
+		<description>
+			<p>When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.</p>
+		</description>
+		<sheet>
+			<description>When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.</description>
+		</sheet>
 	</element>
 	<!-- Spirit Ability Score Increase -->
 	<element name="Ability Score Increase (Strength)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT_STRENGTH">
