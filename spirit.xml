@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+	<element name="Spirit" type="Race" source="DnD Wiki" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT">
+		<description>
+			<p class="flavor">
+				Spirits are, by far, some of the most mysterious beings. Characterized by their freeform ethereal nature, they freely travel the realms with nothing to inhibit their endless journeys. They are everything and nothing, but the only thing they aren't is normal.
+			</p>
+			<h4>
+				PHYSICAL DESCRIPTION
+			</h4>
+			<p>
+				Unlike ghosts, which are the soul given form, Spirits are just like any other race, consisting of a soul and a body. In the spirit's case, the body also happens to be ethereal, and can interact with the world normally if they choose to, whereas a standalone soul cannot do anything.
+			</p>
+			<p>
+				Spirits do not share their appearance with any race, given their amorphous form. They can grow, shrink, rearrange, or even wholly shapeshift their form. Their bodies are as amorphous as slimes, but without the mass. They are mostly transparent and have a colored tinge to them. Their colors can range from vibrant to dull, and are merely an expression of what are, and what they choose to be. Clothes tend to appear to be part of their bodies, and they can simply charge their form to match other clothing. They can become any element they choose: they are light, darkness, and all the shades of twilight in between. They are plasma, gas, liquid, and solid, and can change from one to the next when they choose. They are the embodiment of energy and magic, and everything opposite of those concepts. They are some of the most flexible beings in the world.
+			</p>
+			<h4>
+				HISTORY
+			</h4>
+			<p>
+				Spirits don't have a history in the sense that the other races do. They have been present in the world since the earliest days of creation, where there were no material bodies to put the souls in, so they settled on ethereal bodies. Spirits predate the age of deities, and in a way, are the ancestral species to deities and elementals, and by extension, all forms of life across the different realms. The first deities were born when the most powerful souls or a coalition of souls came together in one ethereal body.
+			</p>
+			<p>
+				In the modern realms, where life has taken root and has branched out in all types of directions to create their own versions of pureblooded individuals, spirits lie at the center of it all as the source. They represent the "grey rainbow", the embodiment of true neutral, or a supernatural melting pot. As such, they birthed their own set of hybrid races. For example, in the same vein that an aasimar is the creation of a celestial and a human, an angel is the creation of a celestial and a spirit.
+			</p>
+			<h4>
+				ATTITUDES AND BELIEFS
+			</h4>
+			<p>
+				They have no unique civilization, cities, nor advanced culture. In fact, they usually share the culture of the people where they currently reside, for they are adaptive to their environments, and will inherit their attributes, but can just as easily dispose of them. If they're one thing that spirits feel a sense of solidarity, it's their sense of adaptability.
+			</p>
+			<p>
+				At birth, because of their ethereal nature, they tend to be quite whimsical and free, like children of all races. However, they will usually take longer to outgrow their carefree nature, if they even grow out of it at all. Because of this, they tend to remain mischievous almost their whole lives. However, while they may outwardly express the most childish and benevolent of personas, they can just as easily harbor the most dreadful and jaded thoughts at all times.
+			</p>
+			<p>
+				When interacting with other races, they tend to find solidarity with Humans, Shifters, Changelings, Simic Hybrids, and the Warforged. Humans bring a sense of adaptability. Shifters and Changelings bring a sense of change and creativity. Simic Hybrids bring a sense of culmination. The Warforged brings a sense of freeform stability.
+			</p>
+			<h4>
+				SPIRIT NAMES
+			</h4>
+			<p>
+				Spirits will tend to have names depicting vague concepts, including emotions or elements. Spirits do not have gender differences, so all their names can be used on whatever identifies as male or female. Because of their whimsical nature, whenever they use names used by the people of the material worlds, they tend to have common names with elongated, soft phonetics (ex: Ww, Mm, Nn, Yy, Ll, Hh, Ff, Ss, Pp, Þþ, Ʃ∫) or abrupt, hard phonetics. (ex: Rr, Tt, Dd, Gg, Jj, Kk, Zz, Vv, Bb). Rarely do they mix.
+			</p>
+			<p>
+				<b>
+					Emotion Names:
+				</b>
+				Akseptanse, Afec∫on, Arousal, Awe, Confidense, Couraje, Desire, Ekstasy, Empaþy, Envy, Faiþ, Fear, Fury, Happy, Uforia
+				<br />
+				<b>
+					Principle Names:
+				</b>
+				Principle Names: Autonomy, Con∫ence, Consent, Equality, Ideal, Justise, Liberty, Freedom, Pain, Sympaþy, Trust, Value, Virtue
+				<br />
+				<b>
+					Elemental Names:
+				</b>
+				Hydro, Heli, Liþi, Beril, Boro, Carbo, Nitro, Oxy, Flouri, Neo, Sodi, Magnesi, Alumini, Siliko, Fosfo, Sulf, Klori, Argo
+				<br />
+			</p>
+			<h4>
+				SPIRIT TRAITS
+			</h4>
+			<p>
+				You will need effort to try and hurt the intangible.
+			</p>
+			<p>
+				<span class="feature">
+					Ability Score Increase.
+				</span>
+				A score of your choice increases by 2 and another score of your choice increases by 2.
+				<br />
+				<span class="feature">
+					Age.
+				</span>
+				Spirits don't mature like other races as they simply exist, but they may get more jaded over time. They are timeless, and do not die from natural causes.
+				<br />
+				<span class="feature">
+					Alignment.
+				</span>
+				Spirits adapt to all forms of life, and will adapt their sense of morality and governance. They are truly neutral.
+				<br />
+				<span class="feature">
+					Size.
+				</span>
+				Spirit vary wildly in size, from the size of insects to that of deities. Their ethereal body can contort at will. If they spend their time around other races, they will most likely change their size to that of the surrounding races to make them feel comfortable, which is usually Medium.
+				<br />
+				<span class="feature">
+					Speed.
+				</span>
+				Your base walking speed is 30 feet. You can hover as well.
+				<br />
+				<span class="feature">
+					Immaterial Body.
+				</span>
+				Your creature type is Construct. You do not require air, food, drink, or sleep. Your body prevents you from using any kind of armor, with your AC being 10 + your Constitution modifier + your Dexterity modifier.
+				<br />
+				<span class="feature">
+					Mind Link.
+				</span>
+				You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language. When you're using this trait to speak telepathically to a creature, you can use your action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait's range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it.
+				<br />
+				<span class="feature">
+					Spirit Magic.
+				</span>
+				You can cast detect magic once, regaining the ability to do so after finishing a short or long rest. You choose Intelligence, Wisdom, or Charisma for your spellcasting ability.
+				<br />
+				<span class="feature">
+					Change Form.
+				</span>
+				As an action, you can change the composition of your body. You determine the specifics of the changes, including your coloration. You can also adjust your height and weight, even to the point of affecting your size. You can make yourself appear invisible depending on the chemical element chosen. You can mimic the appearance of a creature you've seen, but only their approximate shape and coloration. You stay in the new form until you use an action to revert to your true form or until you die.
+				<br />
+				<span class="feature">
+					Spirit's Rest.
+				</span>
+				When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
+				<br />
+				<span class="feature">
+					Languages.
+				</span>
+				You can speak, read, and write Common and one other language of your choice.
+				<br />
+			</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="names" type="emotion">
+				Akseptanse, Afec∫on, Arousal, Awe, Confidense, Couraje, Desire, Ekstasy, Empaþy, Envy, Faiþ, Fear, Fury, Happy, Uforia
+			</set>
+			<set name="names" type="principle">
+				Autonomy, Con∫ence, Consent, Equality, Ideal, Justise, Liberty, Freedom, Pain, Sympaþy, Trust, Value, Virtue
+			</set>
+			<set name="names" type="elemental">
+				Hydro, Heli, Liþi, Beril, Boro, Carbo, Nitro, Oxy, Flouri, Neo, Sodi, Magnesi, Alumini, Siliko, Fosfo, Sulf, Klori, Argo
+			</set>
+			<set name="names-format">
+				{{name}}
+			</set>
+			<set name="height" modifier="2d8">
+				5'6"
+			</set>
+			<set name="weight" modifier="2d6">
+				175 lb.
+			</set>
+		</setters>
+		<rules>
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<stat name="innate speed" value="30" bonus="base" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" />
+			<select type="Racial Trait" name="Ability Score Increase (2) (Spirit)" supports="Spirit" number="1" />
+			<select type="Racial Trait" name="Ability Score Increase (1) (Spirit) " supports="Spirit1" number="1" />
+			<select type="Language" name="Language (Spirit)" number="1" supports="Standard||Exotic" />
+		</rules>
+	</element>
+	<!-- Spirit Ability Score Increase -->
+	<element name="Ability Score Increase (Strength)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT_STRENGTH">
+		<compendium display="false" />
+		<supports>
+			Spirit
+		</supports>
+		<description>
+			<p>
+				Your Strength score increases by 2.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="strength" value="2" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Dexterity)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT_DEXTERITY">
+		<compendium display="false" />
+		<supports>
+			Spirit
+		</supports>
+		<description>
+			<p>
+				Your Dexterity score increases by 2.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="dexterity" value="2" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Constitution)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT_CONSTITUTION">
+		<compendium display="false" />
+		<supports>
+			Spirit
+		</supports>
+		<description>
+			<p>
+				Your Constitution score increases by 2.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="constitution" value="2" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Intelligence)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT_INTELLIGENCE">
+		<compendium display="false" />
+		<supports>
+			Spirit
+		</supports>
+		<description>
+			<p>
+				Your Intelligence score increases by 2.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="intelligence" value="2" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Wisdom)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT_WISDOM">
+		<compendium display="false" />
+		<supports>
+			Spirit
+		</supports>
+		<description>
+			<p>
+				Your Wisdom score increases by 2.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="wisdom" value="2" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Charisma)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT_CHARISMA">
+		<compendium display="false" />
+		<supports>
+			Spirit
+		</supports>
+		<description>
+			<p>
+				Your Charisma score increases by 2.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="charisma" value="2" alt="Spirit" />
+		</rules>
+	</element>
+	<compendium display="false" />
+	<element name="Ability Score Increase (Strength)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT_STRENGTH">
+		<compendium display="false" />
+		<supports>
+			Spirit
+		</supports>
+		<description>
+			<p>
+				Your Strength score increases by 2.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="strength" value="2" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Dexterity)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT1_DEXTERITY">
+		<compendium display="false" />
+		<supports>
+			Spirit1
+		</supports>
+		<description>
+			<p>
+				Your Dexterity score increases by 1.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="dexterity" value="1" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Constitution)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT1_CONSTITUTION">
+		<compendium display="false" />
+		<supports>
+			Spirit1
+		</supports>
+		<description>
+			<p>
+				Your Constitution score increases by 1.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="constitution" value="1" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Intelligence)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT1_INTELLIGENCE">
+		<compendium display="false" />
+		<supports>
+			Spirit1
+		</supports>
+		<description>
+			<p>
+				Your Intelligence score increases by 1.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="intelligence" value="1" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Wisdom)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT1_WISDOM">
+		<compendium display="false" />
+		<supports>
+			Spirit1
+		</supports>
+		<description>
+			<p>
+				Your Wisdom score increases by 1.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="wisdom" value="1" alt="Spirit" />
+		</rules>
+	</element>
+	<element name="Ability Score Increase (Charisma)" type="Racial Trait" source="Player’s Handbook" id="ID_KYOJO_DNDWIKI_RACE_SPIRIT1_CHARISMA">
+		<compendium display="false" />
+		<supports>
+			Spirit1
+		</supports>
+		<description>
+			<p>
+				Your Charisma score increases by 1.
+			</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="charisma" value="1" alt="Spirit" />
+		</rules>
+	</element>
+	<compendium display="false" />
+	<element name="Spirit Magic" type="Racial Trait" source="DnD Wiki" id="ID_KYOJO_DNDWIKI_RACIAL_TRAIT_SPIRIT_MAGIC">
+		<description>
+			<p>
+				You can cast detect magic once, regaining the ability to do so after finishing a short or long rest. You choose Intelligence, Wisdom, or Charisma for your spellcasting ability.
+			</p>
+		</description>
+		<sheet>
+			<description>
+				You can cast detect magic once per short rest (Int, Wis, or Cha)
+			</description>
+		</sheet>
+	</element>
+	<spellcasting name="Spirit" ability="Wisdom" prepare="false">
+		<list>
+			Spirit
+		</list>
+	</spellcasting>
+	<element name="Change Form" type="Racial Trait" source="DnD Wiki" id="ID_KYOJO_DNDWIKI_RACIAL_TRAIT_CHANGE_FORM">
+		<description>
+			<p>
+				As an action, you can change the composition of your body. You determine the specifics of the changes, including your coloration. You can also adjust your height and weight, even to the point of affecting your size. You can make yourself appear invisible depending on the chemical element chosen. You can mimic the appearance of a creature you've seen, but only their approximate shape and coloration. You stay in the new form until you use an action to revert to your true form or until you die.
+			</p>
+		</description>
+		<sheet action="Action">
+			<description>
+				Change the composition of your body. Persists until death or an action to revert
+			</description>
+		</sheet>
+	</element>
+</elements>
